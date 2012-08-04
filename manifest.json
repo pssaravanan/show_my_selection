@@ -1,0 +1,10 @@
+{
+  "name": "show_my_selection",
+  "description": "show only div that i am currently on",
+  "version": "1.0",
+  "browser_action": {
+    "default_icon": "images/icon.png",
+    "default_title": "show my selection"
+  }
+}
+
